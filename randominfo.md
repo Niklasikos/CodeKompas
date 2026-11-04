@@ -2,4 +2,6 @@
 
 > using namespace std:
 
-so std::cout or smth doesnt has to be used all the time
+so std::cout or smth doesnt has to be used all the time 
+
+std == standard (lib)
